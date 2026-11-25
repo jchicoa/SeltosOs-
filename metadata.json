@@ -1,0 +1,6 @@
+{
+  "name": "SeltosMate OS",
+  "description": "Automotive split-screen cockpit, live GPS & BLE OBD-II telemetry, unrestricted media & streaming hub, dual-view app launcher, MyQ garage control, and Android Auto companion for the 2021 Kia Seltos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

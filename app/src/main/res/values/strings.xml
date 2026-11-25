@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SeltosMate OS</string>
+    <string name="telemetry_speed_kmh">KM/H</string>
+    <string name="telemetry_speed_mph">MPH</string>
+    <string name="obd_rpm">RPM</string>
+    <string name="obd_coolant">COOLANT</string>
+    <string name="obd_fuel_econ">L/100KM</string>
+    <string name="obd_throttle">THROTTLE</string>
+    <string name="obd_voltage">BATTERY</string>
+    <string name="tab_home_hub">Home Hub</string>
+    <string name="tab_video_stream">Video &amp; Stream</string>
+    <string name="tab_dual_view">Dual View</string>
+    <string name="tab_browser_apps">Browser/Apps</string>
+    <string name="tab_myq_garage">MyQ Garage</string>
+    <string name="cd_vehicle_graphic">2021 Black Kia Seltos Interactive Vehicle Graphic</string>
+    <string name="cd_headlights_toggle">Toggle Headlights</string>
+    <string name="cd_doors_trunk">Doors and Trunk Status</string>
+    <string name="cd_ambient_mood">Interior Ambient RGB Mood</string>
+    <string name="cd_garage_illustration">Chamberlain MyQ Garage Door Illustration</string>
+    <string name="cd_split_handle">Resize Split Screen Divider</string>
+    <string name="cd_fullscreen_toggle">Toggle Fullscreen Stage</string>
+</resources>
